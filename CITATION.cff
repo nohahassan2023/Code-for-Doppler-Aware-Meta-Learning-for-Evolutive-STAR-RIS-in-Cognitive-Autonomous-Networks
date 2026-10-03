@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Code for Doppler-Aware Meta-Learning for Evolutive STAR-RIS in Cognitive Autonomous Networks"
+type: software
+authors:
+  - family-names: "Hassan"
+    given-names: "Noha"
+  - family-names: "Yaseen"
+    given-names: "Maysa"
+  - family-names: "Fernando"
+    given-names: "Xavier"
+  - family-names: "Yanikomeroglu"
+    given-names: "Halim"
+repository-code: "https://github.com/nohahassan2023/Code-for-Doppler-Aware-Meta-Learning-for-Evolutive-STAR-RIS-in-Cognitive-Autonomous-Networks"
+date-released: "2026-10-03"
+version: "1.0"
+license: MIT
